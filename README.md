@@ -58,6 +58,10 @@ This project is under the [MIT](./LICENSE) license.
 	
 ### Author :technologist:
 
+Sara Saori Satake.
+[![Linkedin Badge](https://img.shields.io/badge/-SaraSaori-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sara-saori-satake-3a13a4174/) 
+[![Gmail Badge](https://img.shields.io/badge/-SaraSaori19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:SaraSaori19@gmail.com)
+
 Guilherme Henrique de Souza Nakahata.
 
 [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeNakahata-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-de-souza-nakahata-637459187/) 
