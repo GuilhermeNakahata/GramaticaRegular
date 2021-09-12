@@ -16,21 +16,26 @@
 comandos que permite o funcionamento dessas máquinas de forma eficiente. A
 proximidade com as linguagens compreensíveis ao ser humano é então,
 reduzida, provocando o distanciamento desses dois universos.
+	
 Para diminuir esse impasse, foram criadas as linguagens de programação. Estas
 são linguagens formais, que visam eliminar ambiguidades, permitindo assim, que
 um comando e palavras reservadas tenham sempre o mesmo significado,
 independentemente de como estão colocadas em um programa.
+	
 Assim como a língua portuguesa, ou qualquer outro idioma, as linguagens de
 programação possuem uma gramática, que possibilitam a criação de programas
 válidos. A partir de uma gramática, é possível gerar todas as palavras de uma
 linguagem formal.
+	
 Neste trabalho, será apresentado a implementação de um programa que permite
 a derivação de uma palavras de uma Gramática Regular, ou seja, linguagens
 que podem ser reconhecidas por autômatos finitos.
+	
 As derivações poderão ser feitas em Gramática Regular Unitária à Direita
 (GLUD) e Gramática Regular Unitária à Esquerda (GLUE), sendo iminente
 também, observar o passo a passo das regras de produção tomadas para cada
 derivação.
+	
 Uma Gramática Regular é o mecanismo gerador para as linguagens regulares,
 ou seja, as linguagens que podem ser reconhecidas por Autômatos Finitos
 Determinísticos (AFD) ou Autômatos Finitos Não Determinísticos (AFND).
